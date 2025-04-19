@@ -32,9 +32,11 @@
     <li>Clone this repository to your local machine.</li>
     <li>Open the index.html file in any browser to view the project.</li>
 </ol>
-<pre><code>git clone &lt;repository-url&gt;
-cd &lt;project-directory&gt;
-open index.html</code></pre>
+<pre><code>git clone &lt;https://github.com/MD-DaniyalJavadia/Nail-Art.git&gt;
+
+
+<h2>Live Version</h2>
+<p>This project is also live on Vercel. You can view it at: <a href="https://nail-art-e-project.vercel.app/" target="_blank">Nail Art Showcase</a>.</p>
 
 <h2>Contact</h2>
 <p>If you have any questions or would like to get in touch, feel free to contact me at:</p>
