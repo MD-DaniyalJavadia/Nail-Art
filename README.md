@@ -38,7 +38,7 @@ open index.html</code></pre>
 
 <h2>Contact</h2>
 <p>If you have any questions or would like to get in touch, feel free to contact me at:</p>
-<p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+<p>Email: <a href="mailto:daniyaljavadiaworks@gmail.com">daniyaljavadiaworks@gmail.com</a></p>
 
 <h2>Contributing</h2>
 <p>Feel free to contribute to this project! You can submit a pull request with improvements or suggest any changes that can make this project even better.</p>
